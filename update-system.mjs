@@ -373,6 +373,7 @@ const SYSTEM_PATHS = [
   'config/cv-facts.example.json',
   'fonts/',
   'examples/',
+  'data-static/',
   'config/profile.example.yml',
   'config/local-paths.example.txt',
   '.env.example',
